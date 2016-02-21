@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I think one of the hardest issues I had were the implementations of constraints to my app. For some reasons the multiple times I tried adding my constarints, I got it to work perfectly for me. I tried making sure that my numbers were similar to those of instructor in the video, but my outcome was not the same.  
+I think one of the hardest issues I had were the implementations of constraints to my app. For some reasons the multiple times I tried adding my constarints, I could not get it to work perfectly for me. I tried making sure that my numbers were similar to those of instructor in the video, but my outcomes were not the same.  
 
 ## License
 
